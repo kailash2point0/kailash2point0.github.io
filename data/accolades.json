@@ -1,0 +1,321 @@
+{
+  "topHonours": [
+    {
+      "prizeIndex": "1",
+      "title": "Winners of Smart India Hackathon 2022",
+      "organisers": "MHRD India"
+    },
+    {
+      "prizeIndex": "0",
+      "title": "Four awards at Sangam 2022",
+      "organisers": "Pragyan 2022, NIT Trichy"
+    },
+    {
+      "prizeIndex": "0",
+      "title": "Represented NIT Trichy at EXCON 2021 Bangalore",
+      "organisers": "AI, IoT and Automation pavillion"
+    },
+    {
+      "prizeIndex": "0",
+      "title": "Presented paper at IEEE Madras section conference 2021",
+      "organisers": "Deep Learning Based Muscle Intent Classification in Continuous Passive Motion Machine for Knee Osteoarthritis Rehabilitation"
+    },
+    {
+      "prizeIndex": "2",
+      "title": "Runner up at eYantra Robotics Competition 2021-2022",
+      "organisers": "eYantra labs, IIT Bombay"
+    },
+    {
+      "prizeIndex": "0",
+      "title": "Presented two papers at ICCET 2021",
+      "organisers": "International Conference on Computing in Engineering and Technology"
+    },
+    {
+      "prizeIndex": "1",
+      "title": "Winners of Amrita Smart City Hackathon 2021",
+      "organisers": "Amrita Coimbatore | Honeywell Technologies | BCIC"
+    },
+    {
+      "prizeIndex": "0",
+      "title": "Semi-finalists at Samvedan 2021",
+      "organisers": "Sony India | IIT Madras"
+    }
+  ],
+  "allAccolades": [
+    {
+      "prizeIndex": "1",
+      "eventYear": "Aug 2022",
+      "name": "Smart India Hackathon 2022",
+      "organisers": "MHRD India",
+      "position": "1",
+      "projectName": "Project ANVI"
+    },
+    {
+      "prizeIndex": "0",
+      "eventYear": "May 2022",
+      "name": "EXCON 2021 Bangalore",
+      "organisers": "AI, IoT and Automation pavillion",
+      "position": "Represented NIT Trichy",
+      "projectName": "Project ANVI | Project LEWI | Project SPS | Project SSC "
+    },
+    {
+      "prizeIndex": "3",
+      "eventYear": "April 2022",
+      "name": "Scient Open House Contest 2022",
+      "organisers": "Scient labs, NIT Trichy",
+      "position": "3",
+      "projectName": "Project ARIBOT"
+    },
+    {
+      "prizeIndex": "1",
+      "eventYear": "April 2022",
+      "name": "Scient Open House Contest 2022",
+      "organisers": "Scient labs, NIT Trichy",
+      "position": "1",
+      "projectName": "Project ANVI"
+    },
+    {
+      "prizeIndex": "2",
+      "eventYear": "March 2022",
+      "name": "Sangam'22 - Defence and Industrial",
+      "organisers": "Pragyan'22, NIT Trichy",
+      "position": "2",
+      "projectName": "Project ARIBOT"
+    },
+    {
+      "prizeIndex": "1",
+      "eventYear": "March 2022",
+      "name": "Sangam'22 - Defence and Industrial",
+      "organisers": "Pragyan'22, NIT Trichy",
+      "position": "1",
+      "projectName": "Project LEWI"
+    },
+    {
+      "prizeIndex": "3",
+      "eventYear": "March 2022",
+      "name": "Sangam'22 - Healthcare and Agriculture",
+      "organisers": "Pragyan'22, NIT Trichy",
+      "position": "3",
+      "projectName": "Project ANVI"
+    },
+    {
+      "prizeIndex": "1",
+      "eventYear": "March 2022",
+      "name": "Sangam'22 - Healthcare and Agriculture",
+      "organisers": "Pragyan'22, NIT Trichy",
+      "position": "1",
+      "projectName": "Project SSC"
+    },
+    {
+      "prizeIndex": "1",
+      "eventYear": "March 2022",
+      "name": "GitHub Ideathon 2022",
+      "organisers": "GitHub developers community, IIT Madras",
+      "position": "1",
+      "projectName": "Project SPS"
+    },
+    {
+      "prizeIndex": "1",
+      "eventYear": "March 2022",
+      "name": "WIN-NITT Ideathon'22",
+      "organisers": "WIN NITT - ConclaveX",
+      "position": "1",
+      "projectName": "Project ANVI"
+    },
+    {
+      "prizeIndex": "0",
+      "eventYear": "Feb 2022",
+      "name": "Presented paper at ICCET 2021",
+      "organisers": "SR (Supernumerary Robotic) Fingers",
+      "projectName": "Project SRF"
+    },
+    {
+      "prizeIndex": "0",
+      "eventYear": "Feb 2022",
+      "name": "Presented paper at ICCET 2021",
+      "organisers": "Pipeline inspection using self-transforming hybrid drive quad-copter",
+      "projectName": "Project HIDQ"
+    },
+    {
+      "prizeIndex": "2",
+      "eventYear": "Feb 2022",
+      "name": "Colloquium'22",
+      "organisers": "Currents'21, NIT Trichy",
+      "position": "2",
+      "projectName": "Project SPS"
+    },
+    {
+      "prizeIndex": "1",
+      "eventYear": "Dec 2021",
+      "name": "Project Presentation",
+      "organisers": "CBIT, Hyderabad",
+      "position": "1",
+      "projectName": "Project SPS"
+    },
+    {
+      "prizeIndex": "3",
+      "eventYear": "Dec 2021",
+      "name": "Ideavation’21",
+      "organisers": "AISSMS, Pune",
+      "position": "3",
+      "projectName": "Project SPS"
+    },
+    {
+      "prizeIndex": "1",
+      "eventYear": "Oct 2021",
+      "name": "Amrita Smart City Hackathon 2021",
+      "organisers": "Amrita Coimbatore - Honeywell Technologies",
+      "position": "1",
+      "projectName": "Project SPS"
+    },
+    {
+      "prizeIndex": "0",
+      "eventYear": "Oct 2021",
+      "name": "SSN Invente 6.0",
+      "organisers": "SSN college of engineering",
+      "position": "15+ prizes"
+    },
+    {
+      "prizeIndex": "0",
+      "eventYear": "Sept 2021",
+      "name": "Presented paper at IEEE Madras section conference",
+      "organisers": "Deep Learning Based Muscle Intent Classification in Continuous Passive Motion Machine for Knee Osteoarthritis Rehabilitation",
+      "projectName": "Project MARKO"
+    },
+    {
+      "prizeIndex": "0",
+      "eventYear": "Sept 2021",
+      "name": "Samvedan 2021",
+      "organisers": "Sony - IIT Madras",
+      "position": "Semi-finalist",
+      "projectName": "Project SSC"
+    },
+    {
+      "prizeIndex": "2",
+      "eventYear": "Sept 2021",
+      "name": "eYantra Robotics Competition 2021-2022",
+      "organisers": "eYantra labs, IIT Bombay",
+      "position": "2"
+    },
+    {
+      "prizeIndex": "1",
+      "eventYear": "April 2021",
+      "name": "Wissensire Paper Presentation",
+      "organisers": " IIT Bhubaneswar",
+      "position": "1",
+      "projectName": "Project SRF"
+    },
+    {
+      "prizeIndex": "2",
+      "eventYear": "April 2021",
+      "name": "APOGEE Project exhibition",
+      "organisers": "BITS Pilani",
+      "position": "2",
+      "projectName": "Project SRF"
+    },
+    {
+      "prizeIndex": "3",
+      "eventYear": "April 2021",
+      "name": "idEEaVolt 2.0",
+      "organisers": "IIT Roorkee",
+      "position": "3",
+      "projectName": "Project SRF"
+    },
+    {
+      "prizeIndex": "0",
+      "eventYear": "March 2021",
+      "name": "Cognizance",
+      "organisers": "IIT Roorkee",
+      "position": "2 prizes",
+      "projectName": "Project SRF"
+    },
+    {
+      "prizeIndex": "0",
+      "eventYear": "March 2021",
+      "name": "Xion'21",
+      "organisers": "SRM University",
+      "position": "2 prizes"
+    },
+    {
+      "prizeIndex": "0",
+      "eventYear": "March 2021",
+      "name": "Elan and ηvision 2021",
+      "organisers": "IIT Hyderabad",
+      "position": "2 prizes",
+      "projectName": "Project SRF"
+    },
+    {
+      "prizeIndex": "3",
+      "eventYear": "March 2021",
+      "name": "Sangam'21 - Healthcare and Agriculture",
+      "organisers": "Pragyan'21, NIT Trichy",
+      "position": "3",
+      "projectName": "Project CHAOS"
+    },
+    {
+      "prizeIndex": "2",
+      "eventYear": "March 2021",
+      "name": "Sangam'21 - Healthcare and Agriculture",
+      "organisers": "Pragyan'21, NIT Trichy",
+      "position": "2",
+      "projectName": "Project MARKO"
+    },
+    {
+      "prizeIndex": "0",
+      "eventYear": "Feb 2021",
+      "name": "Probe'21",
+      "organisers": "NIT Trichy",
+      "position": "2 prizes"
+    },
+    {
+      "prizeIndex": "1",
+      "eventYear": "Feb 2021",
+      "name": "Synergy'21 Paper presentation",
+      "organisers": "NIT Trichy",
+      "position": "1",
+      "projectName": "Project SRF"
+    },
+    {
+      "prizeIndex": "1",
+      "eventYear": "Jan 2021",
+      "name": "Ardrillo",
+      "organisers": "Shaastra'21, IIT Madras",
+      "position": "1"
+    },
+    {
+      "prizeIndex": "0",
+      "eventYear": "Oct 2020",
+      "name": "SSN Invente 5.0",
+      "organisers": "SSN college of engineering",
+      "position": "7+ prizes"
+    },
+    {
+      "prizeIndex": "1",
+      "eventYear": "Sept 2020",
+      "name": "eYantra Robotics Competition 2020-2021",
+      "organisers": "eYantra labs, IIT Bombay",
+      "position": "1"
+    },
+    {
+      "prizeIndex": "1",
+      "eventYear": "Feb 2020",
+      "name": "Transfinitte'20",
+      "organisers": "NIT Trichy",
+      "position": "1"
+    },
+    {
+      "prizeIndex": "3",
+      "eventYear": "Sept 2019",
+      "name": "eYantra Robotics Competition 2019-2020",
+      "organisers": "eYantra labs, IIT Bombay",
+      "position": "3"
+    },
+    {
+      "prizeIndex": "",
+      "eventYear": "",
+      "name": "",
+      "organisers": "",
+      "position": ""
+    }
+  ]
+}
