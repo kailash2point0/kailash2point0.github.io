@@ -4500,34 +4500,30 @@
       },
       {
         "header": "Conference papers",
-        "type": "bullets",
+        "type": "para",
         "subdata": [
           {
             "subheading": "A New Device to Measure Instantaneous Swept Volume of Reciprocating Machines/Compressors,",
             "data": [
-              "International Compressor Technology Conference at Purdue University, USA. July 12-15 2004,",
-              "Pannir Selvam.K, Udyakumar.M, Nageswara Rao.C."
+              "International Compressor Technology Conference at Purdue University, USA. July 12-15 2004, Pannir Selvam.K, Udyakumar.M, Nageswara Rao.C."
             ]
           },
           {
             "subheading": "In Situ Performance Evaluation of Industrial Reciprocating Air Compressors,",
             "data": [
-              "In Spanish Journal Frio-Calor-Aire Acondicionado , May 2009. Originally Paper No;1422 in Proc. 19th Itl. Compressor Engineering Conf., Purdue Univ.U.S.A., July 2008,",
-              "M.Udayakumar, K.Pannirselvam, and T.Suthakar."
+              "In Spanish Journal Frio-Calor-Aire Acondicionado , May 2009. Originally Paper No;1422 in Proc. 19th Itl. Compressor Engineering Conf., Purdue Univ.U.S.A., July 2008, M.Udayakumar, K.Pannirselvam, and T.Suthakar."
             ]
           }
         ]
       },
       {
         "header": "Sponsored Research Project",
-        "type": "bullets",
+        "type": "para",
         "subdata": [
           {
             "subheading": "",
             "data": [
-              "Theoretical and Experimental Investigations on Performance Influencing Parameters on Industrial Air Compressors",
-              "Project sponsored by MHRD, budget allocation: 6 lakhs,",
-              "Principal Investigator: Dr.M.Udyakumar, Co-investigator: K.Pannir Selvam."
+              "Theoretical and Experimental Investigations on Performance Influencing Parameters on Industrial Air Compressors. Project sponsored by MHRD, budget allocation: 6 lakhs. Principal Investigator: Dr.M.Udyakumar, Co-investigator: K.Pannir Selvam."
             ]
           }
         ]
