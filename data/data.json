@@ -4498,7 +4498,7 @@
         "position": "Associate lead developer",
         "additional": ["Web design", "UI/UX", "Front-End"],
         "github": "https://github.com/kailashhari",
-        "linkedin": "https://www.linkedin.com/in/kailash-hari-hara-krishnan-418458199/",
+        "linkedIn": "https://www.linkedin.com/in/kailash-hari-hara-krishnan-418458199/",
         "email": "h.kailash1501@gmail.com"
       },
       {
@@ -4507,7 +4507,7 @@
         "position": "Associate developer",
         "additional": ["SysAd", "Front-End"],
         "github": "https://github.com/indreshp135/",
-        "linkedin": "https://www.linkedin.com/in/indresh-p-21b2581b6/",
+        "linkedIn": "https://www.linkedin.com/in/indresh-p-21b2581b6/",
         "email": "indreshp135@gmail.com",
         "personalPage": "https://indreshp135.github.io/"
       },
@@ -4515,9 +4515,9 @@
         "name": "Muhesh K",
         "imageLink": "https://i.imgur.com/eFokmcA.png",
         "position": "Associate developer",
-        "additional": ["Front-End"],
+        "additional": ["Front-End", "Mobile Development"],
         "github": "https://github.com/Muhesh7/",
-        "linkedin": "https://www.linkedin.com/in/muhesh/",
+        "linkedIn": "https://www.linkedin.com/in/muhesh/",
         "email": "vmspride7@gmail.com",
         "personalPage": "https://muhesh7.github.io/"
       }
