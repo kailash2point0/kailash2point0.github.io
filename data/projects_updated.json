@@ -215,7 +215,7 @@
         { "id": "139", "name": "Sivvani M" },
         { "id": "148", "name": "Shrushti Khairkar" }
       ],
-      "cardCoverImage": "https://imgur.com/gOC2rt2",
+      "cardCoverImage": "https://i.imgur.com/gOC2rt2.png",
       "backgroundImage": "https://i.imgur.com/IwpIPVM.png",
       "images": [
         "https://i.imgur.com/gOC2rt2.png",
@@ -273,7 +273,7 @@
         "https://i.imgur.com/HKPX33z.png",
         "https://i.imgur.com/gxk1akO.png",
         "https://i.imgur.com/rTP26Ix.png",
-        "https://i.imgur.com/SkCQuLk.png "
+        "https://i.imgur.com/SkCQuLk.png"
       ],
       "quickLinks": {
         "youtubeLink": "",
@@ -336,7 +336,7 @@
         "https://i.imgur.com/T2LyjyV.png"
       ],
       "quickLinks": {
-        "youtubeLink": "https://youtu.be/oq0OR4O_MM",
+        "youtubeLink": "https://youtu.be/oq0OR4O_MMM",
         "githubLink": "https://github.com/RMI-NITT/Sign-to-Speech-Convertor",
         "otherLink": ""
       }
@@ -400,12 +400,12 @@
         { "id": "159", "name": "Sunkara Vikash" },
         { "id": "137", "name": "Girish K" }
       ],
-      "cardCoverImage": "https://imgur.com/UcMR3nk",
+      "cardCoverImage": "https://i.imgur.com/UcMR3nk.png",
       "backgroundImage": "https://i.imgur.com/nwj5rDP.png",
       "images": [
-        "https://imgur.com/UcMR3nk",
+        "https://i.imgur.com/UcMR3nk.png",
         "https://i.imgur.com/ZhDzmvK.png",
-        "https://imgur.com/UUFZMmj",
+        "https://i.imgur.com/UUFZMmj.png",
         "https://i.imgur.com/tGZzJKf.png"
       ],
       "quickLinks": {
@@ -554,7 +554,7 @@
       "quickLinks": {
         "youtubeLink": "",
         "githubLink": "https://github.com/RMI-NITT/Project_HIDQ",
-        "otherLink": ""
+        "otherLink": "https://digital-library.theiet.org/content/conferences/10.1049/icp.2022.0620"
       },
       "publications": [
         {
@@ -610,7 +610,7 @@
       "quickLinks": {
         "youtubeLink": "",
         "githubLink": "https://github.com/RMI-NITT/MARKO",
-        "otherLink": ""
+        "otherLink": "https://ieeexplore.ieee.org/document/9563370"
       },
       "publications": [
         {
@@ -690,11 +690,11 @@
         { "id": "126", "name": "Kailash Jagadeesh" },
         { "id": "127", "name": "Hemangani N" }
       ],
-      "cardCoverImage": "https://imgur.com/rVrzhpN",
+      "cardCoverImage": "https://i.imgur.com/rVrzhpN.png",
       "backgroundImage": "https://i.imgur.com/wxKmOHG.png",
       "images": [
-        "https://imgur.com/rVrzhpN ",
-        "https://imgur.com/7qySpPS",
+        "https://i.imgur.com/rVrzhpN.png",
+        "https://i.imgur.com/7qySpPS.png",
         "https://i.imgur.com/z0pNkE3.png",
         "https://i.imgur.com/BjaCaag.png",
         "https://i.imgur.com/8vMVYhx.png"
@@ -702,7 +702,7 @@
       "quickLinks": {
         "youtubeLink": "",
         "githubLink": "https://github.com/RMI-NITT/SRF",
-        "otherLink": ""
+        "otherLink": "https://ieeexplore.ieee.org/document/9800689"
       },
       "Publications": [
         {
